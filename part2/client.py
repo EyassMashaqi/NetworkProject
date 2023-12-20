@@ -14,6 +14,9 @@ def main():
       os.system("rundll32.exe user32.dll,LockWorkStation")
 
 
+      
+
+
 while True:
     
     main()
