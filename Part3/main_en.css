@@ -1,0 +1,36 @@
+html{
+  direction: ltr;
+height: 100%;
+min-width: 1850px;
+min-height: 1000px;
+will-change: scroll-position;
+}
+.navBar{
+    background-color:rgba(160, 160, 160, 0.934);
+    margin: -10px -5px;
+    z-index: 2;
+    max-height: 90px;
+    width:auto;    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+}
+li{
+    display: inline-block;
+    vertical-align: middle;
+}
+.welcomeMsg{
+    color: black;
+     font-size: x-large;
+     font-family: 'Times New Roman', Times, serif;
+     margin-left: 30px;
+}
+.CourseName{
+    color: blue;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5px;
+}
